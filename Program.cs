@@ -1,4 +1,5 @@
 ﻿using DangHuuPhuc_2031200057_CSE422_Lab4.Entity;
+using DangHuuPhuc_2031200057_CSE422_Lab4.Repository;
 
 ILibrary library = new Library();
 IBook book1 = new Book(1, "Design Patterns", "GoF", "Software", 5);
